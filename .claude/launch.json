@@ -1,0 +1,6 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    { "name": "goleirovr", "runtimeExecutable": "python", "runtimeArgs": ["serve.py", "--port", "8811"], "port": 8811 }
+  ]
+}
